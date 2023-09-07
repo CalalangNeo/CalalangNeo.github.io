@@ -1,0 +1,11 @@
+<html>
+
+<div class="card">
+<img src="img_girl.jpg" alt="Girl in a jacket">
+  <h1>Calalang Nea</h1>
+  <p class="title">Who I Am</p>
+  <p>Hi, Good day, Im Calalang Neo Basa. I am student at Pamantasan ng Lungsod ng Muntinlupa, currently studying Bachelor of Science in Computer Science.
+I was born here on Muntinlupa City on July 21, 2002 and I am 21 years old now. I also live along with my parents here at Tunasan, Muntinlupa City. I have 2 siblings, brother and sister. I have a good relationship with my siblings and parents. Sometimes there is a little quarrel, but i think this is normal and we try to resolve our problems together.
+My everyday activities included going to school, playing online games, volleyball, and watching some kdrama and anime. 
+My expectations for this subject, Human Computer Interaction, are that i would be able to learn everything that is needed in this subject and that I would likewise be able to make use of them in the future. I expect that the quizzes, activities, and discussion wouldn’t be too hard and would be finished well.
+In five years from today, I have no idea what will happen to me five years from now. But I assure my self I have a goal in mind and will fulfill that goal with passion and hard work. I can’t predict the future, but for me. I have to be goal oriented and should know what I want to achieve. </p>
